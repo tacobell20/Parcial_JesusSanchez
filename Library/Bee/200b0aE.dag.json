@@ -110,8 +110,8 @@
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 99,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/Volumes/SWITCH/gameengine/New",
+      "PayloadLength": 36,
+      "PayloadDebugContentSnippet": "/Volumes/SWITCH/Parcial_JesusS",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -122,7 +122,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 228,
+      "PayloadOffset": 220,
       "PayloadLength": 33344,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -135,7 +135,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 33658,
+      "PayloadOffset": 33650,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -1753,7 +1753,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 33753,
+      "PayloadOffset": 33745,
       "PayloadLength": 7188,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -1981,7 +1981,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Volumes/SWITCH/gameengine/New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Volumes/SWITCH/gameengine/New Unity Project/Library/ScriptAssemblies\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Volumes/SWITCH/Parcial_JesusSanchez/Library/ScriptAssemblies/Assembly-CSharp.dll\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Volumes/SWITCH/Parcial_JesusSanchez/Library/ScriptAssemblies\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Users/jesussanchez/Desktop/unity/2022.3.21f1/Unity/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -2116,7 +2116,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Volumes/SWITCH/gameengine/New Unity Project/getconf"
+      "File": "/Volumes/SWITCH/Parcial_JesusSanchez/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -2160,6 +2160,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/200b0aE.dag.json",
-  "PayloadsFile": "/Volumes/SWITCH/gameengine/New Unity Project/Library/Bee/200b0aE.dag.payloads",
+  "PayloadsFile": "/Volumes/SWITCH/Parcial_JesusSanchez/Library/Bee/200b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }
